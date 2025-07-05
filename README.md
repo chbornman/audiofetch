@@ -1,6 +1,6 @@
 # AudioFetch
 
-A FastAPI-based web application for downloading audio from websites with real-time progress tracking via WebSockets.
+A FastAPI-based web application for downloading audio from websites with real-time progress tracking via WebSockets
 
 ## Features
 
